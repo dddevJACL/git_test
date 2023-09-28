@@ -1,1 +1,2 @@
 Open hello_world.txt, add some text to it, save it and stage it.
+Second edit, git commit from within Visual Studio Code
